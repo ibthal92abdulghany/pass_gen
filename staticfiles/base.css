@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/004/200/227/large/ilya-nazarov-0-136ebd-98620c3c-xxl.jpg?1524495766);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(29, 26, 26);
+  display: block;
+  margin-block-start: 0%;
+}
+ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+ul {
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
+  }
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(56, 52, 128);
+}
+
